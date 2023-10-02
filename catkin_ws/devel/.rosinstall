@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tang/ROS_implementation/catkin_ws/devel/setup.sh
